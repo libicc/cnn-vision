@@ -1,7 +1,7 @@
 class  ComputationalGragh(object):
 	"""docstring for  ComputationalGragh"""
 	def __init__(self, arg):
-		super  ComputationalGragh, self).__init__()
+		super  (ComputationalGragh, self).__init__()
 		self.arg = arg
 
 	def forward(imputs):
